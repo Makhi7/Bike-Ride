@@ -1,4 +1,4 @@
 package BikeType;
 
-public class RoadBike implements  {
+public class RoadBike implements Bicycle {
 }
